@@ -1,0 +1,108 @@
+.header{
+    background-color:#4a4a4a;
+}
+.logo{
+    height:5%;
+    width:62%;
+}
+.headerfill{
+    height:2.5%;
+}
+.subheaderfill{
+    height:5.5%;
+}
+.btn-link{
+    color:#d1deac
+}
+.btmbrder{
+    border-bottom:solid 1px #000000;
+}
+.btn:hover{
+    color:#d1deac;
+    text-decoration: underline;
+}
+.likepad{
+    height:70%;
+}
+.table{
+    background-color:#bbd412;
+    font-size:13;
+    border-radius:10px 10px 0px 0px;
+}
+.eqwidth:hover{
+    background-color:#f6c400;
+    text-decoration:none;
+}
+.eqwidth:active{
+    background-color:#f6c400;
+    text-decoration:none;
+}
+.active{
+    background-color:#f6c400 !important;
+    border-radius:10px 0px 0px 0px;
+}
+.eqwidth{
+    width:10%;
+    text-align:center;
+    border-right:100px;
+}
+.ads1{
+    background-color:#ffffff;
+    background: url(http://h.mfcdn.net/store/mfbanners/pc.skin_1479262306.png?token=6a1d74e42dfb552070b08ea2c3ac6b40&ttl=1481551200&v=1479262306) no-repeat scroll right top transparent;
+    height: 768px;
+    left: -475px;
+    top: 94px;
+    position: fixed;
+    width: 50%;
+}
+.ads2{
+    background: url(http://h.mfcdn.net/store/mfbanners/pc.skin_1479262315.png?token=b260af7b186e38befca5a32aa59afe72&ttl=1481551200&v=1479262315) no-repeat scroll 475px top transparent;
+    height: 768px;
+    right: 0;
+    top: 94px;
+    position: fixed;
+    width: 50%;
+}
+
+.link:hover{
+    text-decoration:none;
+}
+.link:visited{
+    text-decoration:none;
+}
+.link:active{
+    text-decoration:none;
+}
+.body{
+    margin-top:-20px;
+    background-image:url(../img/black.jpg);
+    height:88%;
+    background-repeat:repeat-x-fast;
+}
+.mainbody{
+    background-image:url(../img/white.jpg);
+    background-repeat:repeat-x;
+}
+.time{
+    margin-top:4%;
+    float:right;
+}
+.manga{
+    display:block;
+}
+.img-thumbnail{
+    margin-top:2%;
+    display:inline;
+    height:10%;
+    width:10%;
+}
+.img2{
+    height:10%;
+    width:20%;
+}
+.h3{
+    color:#bbd412;
+}
+.h6{
+    display:inline;
+}
